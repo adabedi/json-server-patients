@@ -22,6 +22,15 @@
           "ammount": 10,
           "description": "worse"
         },
+          "oxygenSaturation": {
+          "scale": "2"
+          },
+          "supplementalO2": {
+          "value": "yes"
+          },
+          "device": {
+          "value": "Tracheostomy Mask"
+          },
         "situationAndBackground": [
           {
             "presentComplain": ["Abdominal Pain", "Small bowel obstruction"]
